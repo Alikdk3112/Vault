@@ -1,0 +1,3 @@
+public interface X <T1 extends A> {
+	List<C> m1 (T1 t, List <? extends B> lst);
+}

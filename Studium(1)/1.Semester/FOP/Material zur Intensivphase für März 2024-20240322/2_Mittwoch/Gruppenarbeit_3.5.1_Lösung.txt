@@ -1,0 +1,21 @@
+public <T> void foo ( ListItem<T> lst1,
+	ListItem<T> lst2, ListItem<T> tail ) {
+
+  for ( ListItem<T> p1 = lst1; p1 != null; p1 = p1.next ) {
+    boolean isInResult = true;
+
+    for ( ListItem<T> p2 = lst2; p2! = null; p2 = p2.next){
+      if ( p1.key.equals ( p2.key ) ) {
+        isInResult = false;
+        break;   // break kann auch fehlen
+      }}
+
+    if ( isInResult ) {
+      tail.next = new ListItem<T>();
+      tail = tail.next;
+      tail.key = p1.key;
+    }
+
+  }
+
+}

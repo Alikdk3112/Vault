@@ -1,0 +1,21 @@
+public <T> T f (List<T> lst1, List<T> lst2){
+
+	// Iteratoren anlegen
+	Iterator<T> it1 = lst1.iterator();
+	Iterator<T> it2 = lst2.iterator();	
+
+	while (it1.hasNext() &&  it2.hasNext()) {
+		it1.next();
+		it2.next();
+	}
+
+	// Abfrage, welche Liste länger ist
+	if (it1.hasNext())
+		return it1.next();
+	return it2.next();
+
+}
+
+
+lst1: (1,	2	 XXX)
+lst2 : (8,	 7,	6)

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "3bb9bc1d256467d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d41af946438d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d69d3290048efe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad97cdb6ba16ac87",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d6f1791c7e2e99b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0cc7a3166ce64d24",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dce53de8627a7b2a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b64dd067cd27299f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c2c43b5ee9c62120",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7225054dc53c8d6e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "42aa44341fee0c9a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0b7d48154d8c04ac",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "70dc5dbfe7c51df9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "6d6f1791c7e2e99b",
+  "lastOpenFiles": [
+    "2. Semester/AUD/Übungen/Übung 01.md",
+    "2. Semester/AUD/Folie 01 Introduction.pdf",
+    "Mathe skript.md",
+    "Untitled",
+    "1.Semester/FOP/Notizen/Listen in Java.md",
+    "bilder/Pasted image 20240417153130.png",
+    "bilder/Pasted image 20240417153146.png",
+    "bilder/Pasted image 20240417152442.png",
+    "1.Semester/FOP/Altklausuren/Wise 2020.md",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Wise 21.md",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Sose 2021.md",
+    "2024-03-26.md",
+    "2024-03-28.md",
+    "README.md",
+    "2024-W13.md",
+    "Studium/1.Semester/Module/FOP/Notizen/Racket Einstieg.md",
+    "Studium/1.Semester/Module/FOP/Notizen/Listen in Racket.md",
+    "Studium/1.Semester/Module/FOP/Notizen/Funktionales Programmieren.md",
+    "2024-03-27.md",
+    "Studium/2024-03-26.md",
+    "Unbenannt.md"
+  ]
+}

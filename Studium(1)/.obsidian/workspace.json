@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "bce714e8b994c0e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e274e4225e91a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ab61e425c6172e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Semester/Deutsches und Internationals Unternehmensrcht/2. Einheit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Einheit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7184354addfacb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dedd4989ddf8a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f441a186cb1f2de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "381a847ece044278",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#card",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "77e53577d1c71790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "87b7d00cbf66d7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c674331127647b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8257f22c8e5b86b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "54e5e7feb8de6c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f90f3f1e0e3413d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Semester/Operations Research/Erstes Kapitel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Erstes Kapitel"
+            }
+          },
+          {
+            "id": "45d313279324f93e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Semester/Operations Research/Erstes Kapitel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Erstes Kapitel öffnen"
+            }
+          },
+          {
+            "id": "ee8146ba616190c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Semester/Operations Research/Erstes Kapitel.md"
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Erstes Kapitel"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "75ab61e425c6172e",
+  "lastOpenFiles": [
+    "bilder/Pasted image 20241031143221.png",
+    "bilder/Pasted image 20241031143003.png",
+    "bilder/Pasted image 20241031142939.png",
+    "bilder/Pasted image 20241031142002.png",
+    "bilder/Pasted image 20241031141701.png",
+    "3. Semester/Deutsches und Internationals Unternehmensrcht/1. Einheit.md",
+    "3. Semester/Deutsches und Internationals Unternehmensrcht/2. Einheit.md",
+    "3. Semester/Übungen.md",
+    "3. Semester/Internationale Logistiksysteme/Folien, die nicht Klausurrelevant sind.md",
+    "bilder/Pasted image 20241029121933.png",
+    "bilder/Pasted image 20241029144958.png",
+    "3. Semester/Visual Computing/1.Wahrnehmung.md",
+    "3. Semester/Visual Computing/Übungen/Aufgabe 2.1.md",
+    "3. Semester/Operations Research/Erstes Kapitel.md",
+    "3. Semester/CSS/03 SymmetricCrypto.md",
+    "bilder/Pasted image 20241029144812.png",
+    "bilder/Pasted image 20241029143934.png",
+    "bilder/Pasted image 20241029125912.png",
+    "bilder/Pasted image 20241029125054.png",
+    "3. Semester/CSS/02 IntroCrypto.md",
+    "3. Semester/Visual Computing/Übungen",
+    "3. Semester/CSS/Vorlesungsmitschriften/Unbenannt.md",
+    "3. Semester/CSS/Vorlesungsmitschriften",
+    "Unbenannt.md",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Wise 21.md",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Sose 23.md",
+    "2. Semester/AUD/Aud Zusammenfassung.md",
+    "3. Semester/EICB/MAVL.md",
+    "Privat/Test.md",
+    "Privat",
+    "Unbenannt.canvas",
+    "bilder/7.1.pdf",
+    "bilder/do.md",
+    "bilder/Mathe skript.md",
+    "2. Semester/GPUM/Zusammenfassung/ARIS (2) - Modellierung mit EPKs.md",
+    "bilder/Inhomogene Lineare Differential gleichungen 1.pdf",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Sose 2021.md",
+    "2024-10-04.md",
+    "Unbenannt 1",
+    "bilder/Inhomogene Lineare Differential gleichungen 2.pdf",
+    "2. Semester/GPUM/Zusammenfassung/ARIS(1) - Einführung und Gesamtkonzept.md",
+    "bilder/Inhomogene Lineare Differential gleichungen.pdf",
+    "3. Semester/Electronic Markets",
+    "3. Semester/Internationale Logistiksysteme",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur WiSE 22.md",
+    "1.Semester/FOP/Altklausuren/Aufgaben/Altklausur Sose22.md",
+    "2. Semester/AUD/Skript/Bloom Filter.md"
+  ]
+}

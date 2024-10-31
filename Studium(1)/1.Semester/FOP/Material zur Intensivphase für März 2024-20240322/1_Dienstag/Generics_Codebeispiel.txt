@@ -1,0 +1,27 @@
+public class Animal {...}
+
+public class Fish extends Animal {...}
+
+public class Salmon extends Fish {...}
+
+public class Goldfish extends Fish {...}
+
+List<? extends Fish> lFish;   ---->>> nur null einfügbar
+
+// 1
+lFish = new LinkedList<Fish>();
+lFish.add(new Fish());
+lFish.add(new Salmon());
+lFish.add(new Goldfish());
+
+// 2
+lFish = new LinkedList<Salmon>();
+lFish.add(new Salmon());
+// error lFish.add(new Fish());
+// error lFish.add(new Goldfish());
+
+// 3
+lFish = new LinkedList<Goldfish>();
+lFish.add(new Goldfish());
+// error lFish.add(new Fish());
+// error lFish.add(new Salmon());

@@ -1,0 +1,21 @@
+(foo3 '(1 2 3) '(9 8 7))
+
+(foo3 '(2 3) (cons 1 '(9 8 7)))
+
+(foo3 '(2 3) '(1 9 8 7))
+
+// rekursiv
+
+(foo3 '(3) (cons 2 '(1 9 8 7))
+
+(foo3 '(3) '(2 1 9 8 7))
+
+// rekursiv
+
+(foo3 empty (cons 3 '(2 1 9 8 7))
+
+(foo3 empty '(3 2 1 9 8 7))
+
+// rekursiv  
+
+'(3 2 1 9 8 7)

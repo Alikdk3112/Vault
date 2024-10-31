@@ -1,0 +1,110 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "tVnd67bldTAljwcSmJ3ny",
+      "name": "",
+      "value": "#eb0000"
+    },
+    {
+      "id": "JlQzmtkmsS46yt7kBa0F_",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "I2JsdrRKE8UoSKec1wATP",
+      "name": "",
+      "value": "#09004d"
+    },
+    {
+      "id": "wokvB535nUApF8O3LCNd3",
+      "name": "",
+      "value": "#9900ff"
+    },
+    {
+      "id": "3zFHjgF1arVObn96aSHh2",
+      "name": "",
+      "value": "#00ffcc"
+    },
+    {
+      "id": "6fvFaMdufCybyVw6xzY2z",
+      "name": "",
+      "value": "#d4ff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1.Semester/Buchführung und Bilanzierung",
+      "color": "3zFHjgF1arVObn96aSHh2"
+    },
+    {
+      "path": "1.Semester/Mathe 1",
+      "color": "I2JsdrRKE8UoSKec1wATP"
+    },
+    {
+      "path": "1.Semester/Vertragsrecht",
+      "color": "tVnd67bldTAljwcSmJ3ny"
+    },
+    {
+      "path": "1.Semester",
+      "color": "wokvB535nUApF8O3LCNd3"
+    },
+    {
+      "path": "2. Semester",
+      "color": "wokvB535nUApF8O3LCNd3"
+    },
+    {
+      "path": "2. Semester/AUD",
+      "color": "3zFHjgF1arVObn96aSHh2"
+    },
+    {
+      "path": "2. Semester/GPUM",
+      "color": "tVnd67bldTAljwcSmJ3ny"
+    },
+    {
+      "path": "2. Semester/Management",
+      "color": "I2JsdrRKE8UoSKec1wATP"
+    },
+    {
+      "path": "2. Semester/Mathe 2",
+      "color": "JlQzmtkmsS46yt7kBa0F_"
+    },
+    {
+      "path": "3. Semester",
+      "color": "wokvB535nUApF8O3LCNd3"
+    },
+    {
+      "path": "3. Semester/CSS",
+      "color": "6fvFaMdufCybyVw6xzY2z"
+    },
+    {
+      "path": "3. Semester/Deutsches und Internationals Unternehmensrcht",
+      "color": "tVnd67bldTAljwcSmJ3ny"
+    },
+    {
+      "path": "3. Semester/EICB",
+      "color": "6fvFaMdufCybyVw6xzY2z"
+    },
+    {
+      "path": "3. Semester/Operations Research",
+      "color": "3zFHjgF1arVObn96aSHh2"
+    },
+    {
+      "path": "3. Semester/Statistik",
+      "color": "3zFHjgF1arVObn96aSHh2"
+    },
+    {
+      "path": "3. Semester/Visual Computing",
+      "color": "3zFHjgF1arVObn96aSHh2"
+    },
+    {
+      "path": "3. Semester/Internationale Logistiksysteme",
+      "color": "I2JsdrRKE8UoSKec1wATP"
+    },
+    {
+      "path": "3. Semester/Übungen.md",
+      "color": "JlQzmtkmsS46yt7kBa0F_"
+    }
+  ]
+}
