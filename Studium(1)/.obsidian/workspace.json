@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Semester/Deutsches und Internationals Unternehmensrcht/2. Einheit.md",
+                "file": "3. Semester/Deutsches und Internationals Unternehmensrecht/2. Einheit.md",
                 "mode": "source",
                 "source": false
               },
@@ -161,7 +161,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "markdown-importer:Markdown Importprogramm öffnen": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
@@ -169,19 +168,22 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "remotely-save:Remotely Save": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
   "active": "75ab61e425c6172e",
   "lastOpenFiles": [
+    "bilder/Pasted image 20241031174906.png",
+    "bilder/Pasted image 20241031174833.png",
+    "bilder/Pasted image 20241031173824.png",
+    "bilder/Pasted image 20241031172054.png",
     "bilder/Pasted image 20241031143221.png",
     "bilder/Pasted image 20241031143003.png",
     "bilder/Pasted image 20241031142939.png",
     "bilder/Pasted image 20241031142002.png",
     "bilder/Pasted image 20241031141701.png",
-    "3. Semester/Deutsches und Internationals Unternehmensrcht/1. Einheit.md",
-    "3. Semester/Deutsches und Internationals Unternehmensrcht/2. Einheit.md",
+    "3. Semester/Deutsches und Internationals Unternehmensrecht/1. Einheit.md",
+    "3. Semester/Deutsches und Internationals Unternehmensrecht/2. Einheit.md",
     "3. Semester/Übungen.md",
     "3. Semester/Internationale Logistiksysteme/Folien, die nicht Klausurrelevant sind.md",
     "bilder/Pasted image 20241029121933.png",
@@ -190,10 +192,6 @@
     "3. Semester/Visual Computing/Übungen/Aufgabe 2.1.md",
     "3. Semester/Operations Research/Erstes Kapitel.md",
     "3. Semester/CSS/03 SymmetricCrypto.md",
-    "bilder/Pasted image 20241029144812.png",
-    "bilder/Pasted image 20241029143934.png",
-    "bilder/Pasted image 20241029125912.png",
-    "bilder/Pasted image 20241029125054.png",
     "3. Semester/CSS/02 IntroCrypto.md",
     "3. Semester/Visual Computing/Übungen",
     "3. Semester/CSS/Vorlesungsmitschriften/Unbenannt.md",
